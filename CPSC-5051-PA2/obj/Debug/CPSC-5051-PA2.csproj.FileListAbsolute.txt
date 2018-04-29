@@ -1,0 +1,6 @@
+C:\Users\havadner\source\repos\CPSC-5051-PA2\CPSC-5051-PA2\bin\Debug\CPSC-5051-PA2.exe
+C:\Users\havadner\source\repos\CPSC-5051-PA2\CPSC-5051-PA2\bin\Debug\CPSC-5051-PA2.pdb
+C:\Users\havadner\source\repos\CPSC-5051-PA2\CPSC-5051-PA2\obj\Debug\CPSC-5051-PA2.csprojResolveAssemblyReference.cache
+C:\Users\havadner\source\repos\CPSC-5051-PA2\CPSC-5051-PA2\obj\Debug\CPSC-5051-PA2.csproj.CoreCompileInputs.cache
+C:\Users\havadner\source\repos\CPSC-5051-PA2\CPSC-5051-PA2\obj\Debug\CPSC-5051-PA2.exe
+C:\Users\havadner\source\repos\CPSC-5051-PA2\CPSC-5051-PA2\obj\Debug\CPSC-5051-PA2.pdb
